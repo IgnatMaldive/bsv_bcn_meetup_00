@@ -27,12 +27,12 @@
     (function() {
         const colorSchemeKey = 'StackColorScheme';
         const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportlightMode = window.matchMedia('(prefers-color-scheme: light)').matches === true;
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-        if (colorSchemeItem == 'light' || colorSchemeItem === 'auto' && supportlightMode) {
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
             
 
-            document.documentElement.dataset.scheme = 'light';
+            document.documentElement.dataset.scheme = 'dark';
         } else {
             document.documentElement.dataset.scheme = 'light';
         }
@@ -179,7 +179,7 @@
         <div class="menu-bottom-section">
             
             
-                <li id="light-mode-toggle">
+                <li id="dark-mode-toggle">
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <circle cx="8" cy="12" r="2" />
@@ -196,7 +196,7 @@
 
 
 
-                    <span>light Mode</span>
+                    <span>Dark Mode</span>
                 </li>
             
         </div>
