@@ -28,12 +28,12 @@
     (function() {
         const colorSchemeKey = 'StackColorScheme';
         const colorSchemeItem = localStorage.getItem(colorSchemeKey);
-        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
+        const supportlightMode = window.matchMedia('(prefers-color-scheme: light)').matches === true;
 
-        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+        if (colorSchemeItem == 'light' || colorSchemeItem === 'auto' && supportlightMode) {
             
 
-            document.documentElement.dataset.scheme = 'dark';
+            document.documentElement.dataset.scheme = 'light';
         } else {
             document.documentElement.dataset.scheme = 'light';
         }
@@ -56,7 +56,7 @@
                     
                     
                         
-                        <img src="/bsv_bcn_meetup_00/img/avatar_huda2458f72ce188392d75c5d51cd8e24e_373_300x0_resize_box_3.png" width="300"
+                        <img src="/bsv_bcn_meetup_00/img/photo_2021-04-26_12-24-34_hu985986ca20c291ddb5dfad4cf24ef312_165373_300x0_resize_q75_box.jpg" width="300"
                             height="300" class="site-logo" loading="lazy" alt="Avatar">
                     
                 
@@ -180,7 +180,7 @@
         <div class="menu-bottom-section">
             
             
-                <li id="dark-mode-toggle">
+                <li id="light-mode-toggle">
                     <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
   <path stroke="none" d="M0 0h24v24H0z"/>
   <circle cx="8" cy="12" r="2" />
@@ -197,7 +197,7 @@
 
 
 
-                    <span>Dark Mode</span>
+                    <span>light Mode</span>
                 </li>
             
         </div>
