@@ -1,8 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Tomás Nomas"
-date = "2022-01-09"
-description = "Search de BSV Blockchain"
+description = "Searching de BSV Blockchain"
 categories = [
     "Bitcoin",
     "Web3" 
@@ -11,6 +10,7 @@ tags = [
     "search",
 ]
 image = "search.png"
+weight = 3
 +++
 
 ## Mane refeci capiebant unda mulcebat

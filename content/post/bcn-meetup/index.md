@@ -1,8 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Barcelona BSV Meetup"
-date = "2022-01-09"
-description = "Barcelona BSV Meetup"
+description = "June 9th 2022"
 categories = [
     "Blockchain",
     "Meetup" 
@@ -10,44 +9,45 @@ categories = [
 tags = [
     "220609_meetup",
 ]
-image = "bsvbcn.png"
+image = "bsvbcn.jpg"
+weight = 1
 +++
 
+
+## Location
+
 Carrer de les Escoles, número 4
-Dijous 9 de juny
-12:00 AM
 
-- Jordi                 ______   Fullstack & cloud management.
-- Fran Bitkodi          
-- Tomás Nomás           
-- Marc Gualls
-- Jordi Compi
-- Me
-- Vasilisa
-- César
+12:00 AM, Dijous 9 de juny
 
+## Presentations
 
-
-
-Gerard Espona
-Tony Cabello 
-Adnrés Caballero
-Jaime_sv
-RafaSV
-Samuel
-Micky C
+- Nacho Mondine     ___  Flutter/Dart and BSV 
+- Jordi Buges       ___  Mini ATM Machine                                              
+- Tomás Nomas       ___  Searching de BSV Blockchain" - bsv.direct/buscador     
+- César Pólo        ___  Metaprinter, Kuwai Developers
+- Fran de la Cal    ___  Departament d’Ensenyament - Generalitat de Catalunya          
+- Jordi Compi       ___  Blockchain ioT
+- Marc Guals        ___  Catalan Anarquist @ polis parallela
+- VasilisaMarinchuk ___  Centre Blockchain Catalunya
 
 
+##  Aditional Members
+
+- Arbusto
+- Diana Varela
+- G.Espona
+- T.Cabello 
+- Jaime_sv
+- RafaSV
+- Samuel
+- Micky C
 
 
 
-## Lorem Ipsum
 
 
-Lorem Ipsum ist ein Platzhaltertext der häufig verwendet wird um Layouts und visuelle Mockups in der Druck-, Grafik- und Verlagsindustrie zu betrachten.
 
-
-## Mane refeci capiebant unda mulcebat
 
 
 

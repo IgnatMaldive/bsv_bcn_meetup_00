@@ -1,7 +1,6 @@
 +++
 author = "Hugo Authors"
 title = "Francisco Ignacio de la Cal"
-date = "2020-01-09"
 description = "Bitcoin ESP & Latam Crew"
 categories = [
     "Academy",
@@ -12,13 +11,18 @@ tags = [
     "search",
 ]
 image = "craig.jpg"
+weight = 5
 +++
 
-Carrer de les Escoles, número 4
-Dijous 9 de juny
-12:00 AM
 
-# BSV Global Blockchain Convention Dubai 2022
+## Departament d'Ensenyament - Generalitat de Catalunya
+
+
+Profesor de Informática en Departament d'Ensenyament - Generalitat de Catalunya
+
+
+
+## BSV Global Blockchain Convention Dubai 2022
 
 O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O Lorem Ipsum tem vindo a ser o texto padrão usado por estas indústrias desde o ano de 1500, quando uma misturou os caracteres de um texto para criar um espécime de livro
 
@@ -30,7 +34,7 @@ O Lorem Ipsum é um texto modelo da indústria tipográfica e de impressão. O L
 ![](05.jpg)  ![](06.jpg)
 
 
-## Mane refeci capiebant unda mulcebat
+# Mane refeci capiebant unda mulcebat
 
 
 

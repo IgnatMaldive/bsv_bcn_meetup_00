@@ -1,7 +1,6 @@
 +++
 author = "Hugo Authors"
 title = "Marc Gualls"
-date = "2016-01-09"
 description = "Catalan Anarchist"
 categories = [
     "Academy",
@@ -14,14 +13,19 @@ image = "academy.jpg"
 +++
 
 
-CryptoBeliever. Architect Poet Creator. Cofounder:@PolisParallela
+Architect - Poet - Creator.  
+
+Cofounder:@PolisParallela. 
+
 Barcelona. Upcycling Architecture Searcher.
 
 
 
-## Mane refeci capiebant unda mulcebat
+## Jaume Puigvert 13
 
+![](02.jpg)  ![](01.jpg) 
 
+![](academy.jpg)  
 
 {{< css.inline >}}
 <style>

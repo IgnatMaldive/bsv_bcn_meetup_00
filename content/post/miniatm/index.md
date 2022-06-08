@@ -1,8 +1,7 @@
 +++
 author = "Hugo Authors"
 title = "Jordi Buges "
-date = "2018-01-09"
-description = "A compact fiat-to-crypto ATM"
+description = "Mini ATM Machine"
 categories = [
     "Bitcoin",
     "Web3" 
@@ -11,6 +10,7 @@ tags = [
     "microcontroller",
 ]
 image = "mini-atm.jpg"
+weight = 5
 +++
 
 MiniATM is a compact and simple Bitcoin Cash ATM. Easy to use and to reproduce, open source and low-cost. Simple one-way Fiat-to-Crypto exchange to spread BCH adoption.

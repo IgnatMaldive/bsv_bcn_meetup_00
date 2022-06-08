@@ -110,7 +110,7 @@ menu:
     social:
         - identifier: github
           name: GitHub
-          url: https://github.com/IgnatMaldive
+          url: https://github.com/IgnatMaldive/bsv_bcn_meetup_00
           params:
               icon: brand-github
 

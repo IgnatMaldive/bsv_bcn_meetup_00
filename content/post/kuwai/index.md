@@ -1,25 +1,33 @@
 +++
 author = "Hugo Authors"
-title = "Kuwai Developers"
-date = "2017-01-09"
-description = "Kuwai Development"
+title = "Cesar Kuwai"
+description = "MetaPrinter"
 categories = [
-    "Bitcoin",
+    "retro",
     "Web3" 
 ]
 tags = [
-    "search",
+    "c#",
 ]
-image = "kuwai.png"
+image = "02.jpg"
+weight = 4
 +++
 
-## Mane refeci capiebant unda mulcebat
+## Kuwai Developers
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Vist al mapa d’empreses i entitats vinculades al sector de les tecnologies blockchain i DLT
+https://cbcat.io/portfolio-item/kuwai-developers/
+
+Our mission is to bring the power of the Blockchain to everyone and everyplace.
+Making it simple to leverage the power of the distributed ledger.
+
+## Metaprinter
+
+![](02.jpg)  ![](03.jpg) 
+
+![](01.jpg)  ![](04.jpg)   
 
 
-
-## Mane refeci capiebant unda mulcebat
 
 
 

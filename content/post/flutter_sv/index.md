@@ -1,8 +1,7 @@
 +++
 author = "Hugo Authors"
-title = "Flutter/Dart and BSV"
-date = "2020-01-09"
-description = "Flutter SV"
+title = "Nacho Mondine"
+description = "Flutter/Dart and BSV"
 categories = [
     "Flutter",
     "Web3" ,
@@ -12,6 +11,7 @@ tags = [
     "dev",
 ]
 image = "wallet.jpg"
+weight = 2
 +++
 
 
