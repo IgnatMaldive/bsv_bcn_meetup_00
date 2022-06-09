@@ -15,13 +15,18 @@ weight = 2
 +++
 
 
-## Lorem Ipsum
+## Cross-platform BSV development
 
-Lorem Ipsum ist ein Platzhaltertext der häufig verwendet wird um Layouts und visuelle Mockups in der Druck-, Grafik- und Verlagsindustrie zu betrachten.
 
-<br>
 
-## Mane refeci capiebant unda mulcebat
+
+
+![](07.png)  ![](05.gif) 
+
+![](wallet.jpg)  ![](00.png)
+
+![](06.png)
+
 
 
 

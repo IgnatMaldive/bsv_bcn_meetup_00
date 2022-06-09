@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Cesar Kuwai"
+title = "Cesar Pólo"
 description = "MetaPrinter"
 categories = [
     "retro",
@@ -15,13 +15,17 @@ weight = 4
 
 ## Kuwai Developers
 
-Vist al mapa d’empreses i entitats vinculades al sector de les tecnologies blockchain i DLT
+Inclòs al mapa d’empreses i entitats vinculades al sector de les tecnologies blockchain i DLT
 https://cbcat.io/portfolio-item/kuwai-developers/
 
 Our mission is to bring the power of the Blockchain to everyone and everyplace.
 Making it simple to leverage the power of the distributed ledger.
 
+![](kuwai.png)
+
 ## Metaprinter
+
+
 
 ![](02.jpg)  ![](03.jpg) 
 

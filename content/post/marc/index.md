@@ -1,6 +1,6 @@
 +++
 author = "Hugo Authors"
-title = "Marc Gualls"
+title = "Marc Guals"
 description = "Catalan Anarchist"
 categories = [
     "Academy",

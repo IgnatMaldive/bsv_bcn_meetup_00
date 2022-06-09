@@ -13,13 +13,18 @@ image = "search.png"
 weight = 3
 +++
 
-## Mane refeci capiebant unda mulcebat
+## www.bsv.direct
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Algú recorda els allotjaments de pàgines gratuïts?
 
+Bitcoin marca un abans i un després a l'obsolescència programada de les dades. Bitcoin és un nou llibre d'història que crea les bases sòlides per a un multivers.
 
+Els motors de cerca són una eina bàsica i fonamental a l'actual Internet i no podien ser menys importants a Metanet.
+A BSV.Direct, estem creant en un motor de cerca que permeti a la gent tenir una perspectiva més clara del contingut a la blockchain i que els permetrà afegir i accedir a resultats de qualitat amb dades perdurables
 
-## Mane refeci capiebant unda mulcebat
+![](00.jpg)  ![](01.jpg) 
+
+![](02.jpg)  ![](03.jpg)   
 
 
 

@@ -9,16 +9,16 @@ categories = [
 tags = [
     "events",
 ]
-image = "CentreBlockchain.png"
+image = "cbcat.png"
 +++
 
 
-## Centre Blockchain and Democracy For All
+## Director of International Relations and Engagements at CBCat
 
 
-![](00.jpeg)  ![](01.png) 
+![](02.png) 
 
-![](02.png)  ![](03.png)
+![](01.png)  ![](03.png)
 
 
 
